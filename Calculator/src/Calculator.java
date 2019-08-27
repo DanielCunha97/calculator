@@ -2,7 +2,8 @@ import java.util.Scanner;
 
 public class Calculator {
 
-	
+	/**** Made By: ****/
+	/** Daniel Cunha ****/
 	
 	
 	public static void main(String[] args) {
